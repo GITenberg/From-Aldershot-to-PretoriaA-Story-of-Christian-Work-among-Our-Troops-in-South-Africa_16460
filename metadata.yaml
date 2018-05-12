@@ -1,0 +1,38 @@
+_repo: From-Aldershot-to-PretoriaA-Story-of-Christian-Work-among-Our-Troops-in-South-Africa_16460
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Allen, R. W.
+    gutenberg_agent_id: '6730'
+    url: http://www.gutenberg.org/2009/agents/6730
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellers, William E.
+    aliases:
+    - Sellers, William Edward
+    - Sellers, W. E. (William E.)
+    gutenberg_agent_id: '6729'
+    url: http://www.gutenberg.org/2009/agents/6729
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army -- Military life'
+- !lcsh 'South African War, 1899-1902 -- War work'
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Religious aspects'
+- !lcsh 'South African War, 1899-1902 -- Hospitals'
+title: 'From Aldershot to Pretoria
+
+  A Story of Christian Work among Our Troops in South Africa'
+url: http://www.gutenberg.org/ebooks/16460
